@@ -31,13 +31,13 @@ Compartilho minha rotina de estudos através de **lives no YouTube**, onde desen
 <br/>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/pedrohqlimass">
+  <a href="https://www.linkedin.com/in/pedrohqlimass" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:pedroconicz@gmail.com">
+  <a href="mailto:pedroconicz@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.youtube.com/@pedrohqlimass">
+  <a href="https://www.youtube.com/@pedrohqlimass" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
 </p>
